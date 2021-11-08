@@ -10,3 +10,5 @@ Order bot for your favourite food. You need to have at least 2 items on the menu
 
 
 There is a brief [presentation here](EventsAndObjects.pdf).
+
+Wiki Link : https://github.com/kishorekumaruorla/FastfoodOrderingApp/wiki
